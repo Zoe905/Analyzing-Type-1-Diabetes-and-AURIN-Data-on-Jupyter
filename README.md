@@ -1,16 +1,16 @@
 Analyzing-Type-1-Diabetes-and-AURIN-Data-on-Jupyter
-＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+----------------------------------------------------
 Author: Zhanyi Qi
 Email: <zhanyiq@gmail.com>
 Major: Master of Information Technology 
 Organization:The University of Melbourne
-------------------------------------------------------------------------
-＃Function description:
+-----------------------------------------------------------------------
+##Function description:
 This program is based on JupyterLab with Python3.5 kernel. It tries 
 to obtain data sets from AURIN OpenAPI and link the data with Type 1 Diabetes
 patients distribution.
 It use Python library Bokeh to visualize data and presents a interactive map.
-＃Preparations
+＃#Preparations
 This project is written by Python version: 3.5. 
 A AURIN OpenAPI account is required to apply. Username and password should be saved in the openapi.cfg.
 
