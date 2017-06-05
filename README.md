@@ -1,9 +1,4 @@
 Analyzing-Type-1-Diabetes-and-AURIN-Data-on-Jupyter
-----------------------------------------------------
-Author: Zhanyi Qi
-Email: <zhanyiq@gmail.com>
-Major: Master of Information Technology 
-Organization:The University of Melbourne
 -----------------------------------------------------------------------
 ##Function description:
 This program is based on JupyterLab with Python3.5 kernel. It tries 
@@ -47,4 +42,8 @@ _sklearn: A free software machine learning library for the Python program. Insta
 
 		pip3 install minepy
 
-
+----------------------------------------------------
+###Author: Zhanyi Qi
+###Email: <zhanyiq@gmail.com>
+###Major: Master of Information Technology 
+###Organization:The University of Melbourne
